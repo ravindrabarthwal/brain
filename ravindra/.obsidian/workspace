@@ -11,6 +11,7 @@
           "state": {
             "file": "Nand2Tetris/Nand2Tetris.md",
             "mode": "preview",
+            "backlinks": true,
             "source": false
           }
         }
